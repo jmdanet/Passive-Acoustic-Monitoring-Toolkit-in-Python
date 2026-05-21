@@ -155,10 +155,10 @@ passive-acoustic-toolkit/
 
 ## Author
 
-UP60047104
+Jean-Marie Danet
 
 ---
 
 ## License
 
-MIT License
+none
